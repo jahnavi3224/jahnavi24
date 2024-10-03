@@ -1,3 +1,4 @@
+'''
 4)
 Extras
 Extras are runs scored by a means other than a batsman hitting the ball. A batsman is not given credit for extras other than runs scored off the bat from a no ball, and the extras are tallied separately on the scorecard and count only towards the team’s score. the types of extras are No ball, Wide, Bye, Leg-bye and Penalty. 1 Penalty corresponds to 5 runs.
@@ -23,3 +24,4 @@ Sample input and output 2:
 7
 1
 17
+'''
