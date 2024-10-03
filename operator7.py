@@ -1,3 +1,4 @@
+'''
 7)
 You are given principal amount, rate of interest per annum, and time in years. You need to calculate the simple interest.
 Input and Output Format
@@ -25,3 +26,4 @@ Sample Input 3
 3
 Sample Output 3
 525.0
+'''
